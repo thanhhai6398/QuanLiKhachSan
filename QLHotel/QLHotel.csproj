@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{63FEC2FD-5ACA-4DCD-ADAB-9AE2D4B561E3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLHotel</RootNamespace>
+    <AssemblyName>QLHotel</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Syncfusion.Core.WinForms, Version=19.1460.0.54, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89" />
+    <Reference Include="Syncfusion.Data.WinForms, Version=19.1460.0.54, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89" />
+    <Reference Include="Syncfusion.Edit.Windows, Version=19.1460.0.54, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL" />
+    <Reference Include="Syncfusion.Grid.Base, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Grid.Base.19.1.0.59\lib\net46\Syncfusion.Grid.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Grid.Windows, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Grid.Windows.19.1.0.59\lib\net46\Syncfusion.Grid.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.GridCommon.WinForms, Version=19.1460.0.54, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89" />
+    <Reference Include="Syncfusion.Licensing, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Licensing.19.1.0.59\lib\net46\Syncfusion.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Schedule.Base, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Schedule.Base.19.1.0.59\lib\net46\Syncfusion.Schedule.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Schedule.Windows, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Schedule.Windows.19.1.0.59\lib\net46\Syncfusion.Schedule.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SfDataGrid.WinForms, Version=19.1460.0.54, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL" />
+    <Reference Include="Syncfusion.SfInput.WinForms, Version=19.1460.0.54, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL" />
+    <Reference Include="Syncfusion.SfListView.WinForms, Version=19.1460.0.54, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89" />
+    <Reference Include="Syncfusion.Shared.Base, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Shared.Base.19.1.0.59\lib\net46\Syncfusion.Shared.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Shared.Windows, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Shared.Windows.19.1.0.59\lib\net46\Syncfusion.Shared.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SpellChecker.Base, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.SpellChecker.Base.19.1.0.59\lib\net46\Syncfusion.SpellChecker.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Tools.Base, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Tools.Base.19.1.0.59\lib\net46\Syncfusion.Tools.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Tools.Windows, Version=19.1460.0.59, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Tools.Windows.19.1.0.59\lib\net46\Syncfusion.Tools.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FORM\BaoCaoCongViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\BaoCaoCongViec.Designer.cs">
+      <DependentUpon>BaoCaoCongViec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLASS\BillTraPhong.cs" />
+    <Compile Include="CLASS\CHECK.cs" />
+    <Compile Include="FORM\CheckIn_LC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\CheckIn_LC.Designer.cs">
+      <DependentUpon>CheckIn_LC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\CheckIn_QL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\CheckIn_QL.Designer.cs">
+      <DependentUpon>CheckIn_QL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\CheckIn_TT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\CheckIn_TT.Designer.cs">
+      <DependentUpon>CheckIn_TT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\CheckOut_QL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\CheckOut_QL.Designer.cs">
+      <DependentUpon>CheckOut_QL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\CheckOut_LC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\CheckOut_LC.Designer.cs">
+      <DependentUpon>CheckOut_LC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\CheckOut_TT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\CheckOut_TT.Designer.cs">
+      <DependentUpon>CheckOut_TT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLASS\DATPHONG.cs" />
+    <Compile Include="FORM\DatPhongForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\DatPhongForm.Designer.cs">
+      <DependentUpon>DatPhongForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\EditLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\EditLC.Designer.cs">
+      <DependentUpon>EditLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\EditTT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\EditTT.Designer.cs">
+      <DependentUpon>EditTT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\EditTT_QL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\EditTT_QL.Designer.cs">
+      <DependentUpon>EditTT_QL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLASS\Global.cs" />
+    <Compile Include="FORM\Information_LC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\Information_LC.Designer.cs">
+      <DependentUpon>Information_LC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\Information_QL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\Information_QL.Designer.cs">
+      <DependentUpon>Information_QL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\Information_TT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\Information_TT.Designer.cs">
+      <DependentUpon>Information_TT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLASS\KHACHHANG.cs" />
+    <Compile Include="CLASS\LAOCONG.cs" />
+    <Compile Include="FORM\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\MainMenu_LaoCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\MainMenu_LaoCong.Designer.cs">
+      <DependentUpon>MainMenu_LaoCong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\MainMenu_QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\MainMenu_QuanLy.Designer.cs">
+      <DependentUpon>MainMenu_QuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\MainMenu_TiepTan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\MainMenu_TiepTan.Designer.cs">
+      <DependentUpon>MainMenu_TiepTan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MY_DB.cs" />
+    <Compile Include="FORM\PhanCongCV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\PhanCongCV.Designer.cs">
+      <DependentUpon>PhanCongCV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLASS\PHONG.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FORM\QL_Nhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\QL_Nhanvien.Designer.cs">
+      <DependentUpon>QL_Nhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\QL_KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\QL_KhachHang.Designer.cs">
+      <DependentUpon>QL_KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\QL_Phong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\QL_Phong.Designer.cs">
+      <DependentUpon>QL_Phong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLASS\QUANLY.cs" />
+    <Compile Include="CLASS\TIEPTAN.cs" />
+    <Compile Include="FORM\TongThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\TongThu.Designer.cs">
+      <DependentUpon>TongThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\TraPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\TraPhong.Designer.cs">
+      <DependentUpon>TraPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\ThongBao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\ThongBao.Designer.cs">
+      <DependentUpon>ThongBao.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FORM\BaoCaoCongViec.resx">
+      <DependentUpon>BaoCaoCongViec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\CheckIn_LC.resx">
+      <DependentUpon>CheckIn_LC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\CheckIn_QL.resx">
+      <DependentUpon>CheckIn_QL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\CheckIn_TT.resx">
+      <DependentUpon>CheckIn_TT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\CheckOut_LC.resx">
+      <DependentUpon>CheckOut_LC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\CheckOut_QL.resx">
+      <DependentUpon>CheckOut_QL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\CheckOut_TT.resx">
+      <DependentUpon>CheckOut_TT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\DatPhongForm.resx">
+      <DependentUpon>DatPhongForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\EditLC.resx">
+      <DependentUpon>EditLC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\EditTT.resx">
+      <DependentUpon>EditTT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\EditTT_QL.resx">
+      <DependentUpon>EditTT_QL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\Information_LC.resx">
+      <DependentUpon>Information_LC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\Information_QL.resx">
+      <DependentUpon>Information_QL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\Information_TT.resx">
+      <DependentUpon>Information_TT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\MainMenu_LaoCong.resx">
+      <DependentUpon>MainMenu_LaoCong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\MainMenu_QuanLy.resx">
+      <DependentUpon>MainMenu_QuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\MainMenu_TiepTan.resx">
+      <DependentUpon>MainMenu_TiepTan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\PhanCongCV.resx">
+      <DependentUpon>PhanCongCV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="FORM\QL_Nhanvien.resx">
+      <DependentUpon>QL_Nhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\QL_KhachHang.resx">
+      <DependentUpon>QL_KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\QL_Phong.resx">
+      <DependentUpon>QL_Phong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\TongThu.resx">
+      <DependentUpon>TongThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\TraPhong.resx">
+      <DependentUpon>TraPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\ThongBao.resx">
+      <DependentUpon>ThongBao.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="images\hinhanh.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\add1.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\dmk.png" />
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

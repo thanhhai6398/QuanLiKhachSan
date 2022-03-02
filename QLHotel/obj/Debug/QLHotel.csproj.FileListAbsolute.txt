@@ -1,0 +1,249 @@
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.exe.config
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.exe
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.pdb
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.exe
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.pdb
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_QuanLy.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_LaoCong.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_TiepTan.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.Information_TT.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.EditTT.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.Information_LC.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.EditLC.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.QLNhanvien.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Base.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Windows.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Licensing.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Base.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Windows.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Base.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Windows.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SpellChecker.Base.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Base.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Windows.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\EnvDTE.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\stdole.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Base.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Windows.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Base.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Windows.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Base.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Windows.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SpellChecker.Base.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Base.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Windows.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.PhanCongCV.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CopyComplete
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfInput.WinForms.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfInput.WinForms.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.exe.config
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Data.WinForms.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Edit.Windows.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfListView.WinForms.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.DataSource.WinForms.dll
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Data.WinForms.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Edit.Windows.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfListView.WinForms.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.DataSource.WinForms.xml
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_LC.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_LC.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.BaoCaoCongViec.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_TT.resources
+D:\4_WINDOWS\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_TT.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\QLHotel.exe.config
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\QLHotel.exe
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\QLHotel.pdb
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Base.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Windows.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Licensing.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Base.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Windows.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Base.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Windows.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.SpellChecker.Base.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Base.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Windows.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.DataSource.WinForms.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\EnvDTE.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\stdole.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Core.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Data.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Edit.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.SfInput.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.SfListView.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.SpellChecker.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\bin\Debug\Syncfusion.DataSource.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.exe.config
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.BaoCaoCongViec.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_LC.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_TT.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_LC.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_TT.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.EditLC.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.EditTT.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.Information_LC.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.Information_TT.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_LaoCong.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_QuanLy.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_TiepTan.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.PhanCongCV.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CopyComplete
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.exe
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.pdb
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.DatPhongForm.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.QL_Nhanvien.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.QL_KhachHang.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel-20210530T094532Z-001\QLHotel\QLHotel\obj\Debug\QLHotel.QL_Phong.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.exe.config
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.exe
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.pdb
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Data.WinForms.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Edit.Windows.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Base.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Windows.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Licensing.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Base.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Windows.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfInput.WinForms.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfListView.WinForms.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Base.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Windows.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SpellChecker.Base.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Base.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Windows.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.DataSource.WinForms.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\EnvDTE.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\stdole.dll
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Data.WinForms.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Edit.Windows.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Base.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Windows.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Base.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Windows.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfInput.WinForms.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SfListView.WinForms.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Base.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Windows.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.SpellChecker.Base.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Base.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Windows.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\bin\Debug\Syncfusion.DataSource.WinForms.xml
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.exe.config
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.BaoCaoCongViec.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_LC.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_TT.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_LC.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_TT.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.DatPhongForm.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.EditLC.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.EditTT.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.Information_LC.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.Information_TT.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_LaoCong.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_QuanLy.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_TiepTan.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.PhanCongCV.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.QL_Nhanvien.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.QL_KhachHang.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.QL_Phong.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CopyComplete
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.exe
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.pdb
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.TraPhong.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_QL.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_QL.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.Information_QL.resources
+D:\2_CSDL\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.EditTT_QL.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\QLHotel.exe.config
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\QLHotel.exe
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\QLHotel.pdb
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.DataSource.WinForms.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\EnvDTE.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\stdole.dll
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Core.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Data.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Edit.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Grid.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Schedule.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.SfInput.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.SfListView.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Shared.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.SpellChecker.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Base.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.Tools.Windows.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\bin\Debug\Syncfusion.DataSource.WinForms.xml
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.exe.config
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.BaoCaoCongViec.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_LC.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_QL.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.CheckIn_TT.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_LC.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_QL.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.CheckOut_TT.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.DatPhongForm.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.EditLC.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.EditTT.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.EditTT_QL.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.Information_LC.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.Information_QL.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.Information_TT.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_LaoCong.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_QuanLy.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.MainMenu_TiepTan.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.PhanCongCV.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.QL_Nhanvien.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.QL_KhachHang.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.QL_Phong.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.TraPhong.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CopyComplete
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.exe
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.pdb
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.TongThu.resources
+G:\HOC TẬP\HK4\LT Windows\QLHotel\QLHotel\obj\Debug\QLHotel.ThongBao.resources
